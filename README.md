@@ -16,3 +16,7 @@ It provides features for managing employee details, attendance, salary, leaves, 
 - **Backend:** C#  
 - **Framework:** .NET / ASP.NET MVC  
 - **Database:** MySQL  
+## 👨‍💻 Author
+**Anubhav Srivastava**  
+📧 Email: [anubhaw1432@gmail.com](mailto:anubhaw1432@gmail.com)  
+🔗 LinkedIn: [Anubhav Srivastava](https://www.linkedin.com/in/anubhav-srivastav-5a226135b)  
